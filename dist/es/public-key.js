@@ -1,4 +1,4 @@
-import { publicKeyConvert } from 'secp256k1';
+import { publicKeyConvert } from 'react-native-secp256k1';
 import { pubToAddress, toChecksumAddress } from 'ethereumjs-util';
 import { hexToUnit8Array, uint8ArrayToHex } from './util';
 

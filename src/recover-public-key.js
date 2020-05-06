@@ -1,6 +1,6 @@
 import {
     ecdsaRecover
-} from 'secp256k1';
+} from 'react-native-secp256k1';
 import {
     removeTrailing0x,
     hexToUnit8Array,

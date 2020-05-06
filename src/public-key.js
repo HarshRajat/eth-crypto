@@ -1,6 +1,6 @@
 import {
     publicKeyConvert
-} from 'secp256k1';
+} from 'react-native-secp256k1';
 import {
     pubToAddress,
     toChecksumAddress

@@ -1,6 +1,6 @@
 import {
     ecdsaSign as secp256k1_sign
-} from 'secp256k1';
+} from 'react-native-secp256k1';
 import {
     addTrailing0x,
     removeTrailing0x
